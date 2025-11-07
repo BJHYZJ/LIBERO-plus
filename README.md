@@ -105,7 +105,7 @@ The evaluation method is almost identical to `LIBERO`. The only required modific
 
 - **OpenVLA-OFT+** shows the performance of [OpenVLA-OFT with a mix-sft on LIBERO-plus dataset](https://huggingface.co/Sylvest/openvla-7b-oft-finetuned-libero-plus-mixdata/tree/main).
 - **OpenVLA-OFT_w** shows the performance of [OpenVLA-OFT without wrist observation input](https://huggingface.co/Sylvest/openvla-7b-oft-finetuned-libero-without-wrist).
-- **OpenVLA-OFT_m** shows the performance of [OpenVLA-OFT with a mix-sft](https://huggingface.co/moojink/openvla-7b-oft-finetuned-libero-spatial).
+- **OpenVLA-OFT_m** shows the performance of [OpenVLA-OFT with a mix-sft](https://huggingface.co/moojink/openvla-7b-oft-finetuned-libero-spatial-object-goal-10).
 
 ### Origin LIBERO Benchmark Leaderboard
 

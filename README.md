@@ -120,7 +120,7 @@ The following projects have adopted **LIBERO-Plus** for evaluating their VLA mod
 If your project uses LIBERO-Plus, please submit a PR to add your work.
 
 - AVA-VLA: Improving Vision-Language-Action models with Active Visual Attention. (Avg 74.7) [[pdf]](https://arxiv.org/pdf/2511.18960)
-- MergeVLA: Cross-Skill Model Merging Toward a Generalist Vision-Language-Action Agent. (Avg 72.2) [[pdf]](https://arxiv.org/pdf/2511.18810)
+- MergeVLA: Cross-Skill Model Merging Toward a Generalist Vision-Language-Action Agent. (Avg 72.2) [[pdf]](https://arxiv.org/pdf/2511.18810) [[github]](https://github.com/MergeVLA/MergeVLA) 
 - SRPO: Self-Referential Policy Optimization for Vision-Language-Action Models. (Avg 82.1) [[pdf]](https://arxiv.org/pdf/2511.15605) [[github]](https://github.com/sii-research/siiRL) [[hf-model]](https://huggingface.co/collections/Sylvest/srpo) 
 
 🌱 ***More works are being added…***

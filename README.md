@@ -88,6 +88,8 @@ LIBERO-plus/
 ## 🔧 Evaluation
 The evaluation method is almost identical to `LIBERO`. The only required modification is adjusting `num_trials_per_task` from 50 to 1 in your configuration.
 
+The mapping between task IDs, perturbation categories, and difficulty levels is provided in `.libero/libero/benchmark/task_classification.json`.
+
 ## 📊 LIBERO-Plus Benchmark Leaderboard
 | Model | Camera | Robot | Language | Light | Background | Noise | Layout | Total |
 |-------|--------|-------|----------|-------|------------|-------|--------|-------|
